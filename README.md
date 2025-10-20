@@ -63,8 +63,8 @@ git clone https://github.com/fibou1/ynov-git-avance--fr.git
 
 Auteur
 👤 Firas Bouricha
-Mentor & Etudiant Cloud, Sécurité & Infrastructure – Ynov Sophia Antipolis
+*** Mentor & Etudiant Cloud, Sécurité & Infrastructure – Ynov Sophia Antipolis ***
 
 Me contacter : 
-📧 Email professionnel : f.bouricha@ynov.com
-💼 LinkedIn : https://www.linkedin.com/in/firas-bouricha/
+- 📧 Email professionnel : f.bouricha@ynov.com
+- 💼 LinkedIn : https://www.linkedin.com/in/firas-bouricha/
