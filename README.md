@@ -58,3 +58,13 @@ Projet de fin de module :
 1️⃣ Clone le dépôt :  
 ```bash
 git clone https://github.com/firasbouricha/ynov-git-cours-et-projets.git
+
+
+Auteur
+👤 Firas Bouricha
+Mentor & Etudiant Cloud, Sécurité & Infrastructure – Ynov Sophia Antipolis
+
+📬 Me contacter : 
+📧 Email professionnel : f.bouricha@ynov.com
+💼 LinkedIn : https://www.linkedin.com/in/firas-bouricha/
+
