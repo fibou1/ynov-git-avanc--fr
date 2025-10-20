@@ -64,7 +64,6 @@ Auteur
 👤 Firas Bouricha
 Mentor & Etudiant Cloud, Sécurité & Infrastructure – Ynov Sophia Antipolis
 
-📬 Me contacter : 
+Me contacter : 
 📧 Email professionnel : f.bouricha@ynov.com
 💼 LinkedIn : https://www.linkedin.com/in/firas-bouricha/
-
