@@ -56,7 +56,10 @@ Projet de fin de module :
 ## 💡 Comment utiliser ce dépôt
 
 1️⃣ Clone le dépôt :  
-```bash git clone https://github.com/firasbouricha/ynov-git-cours-et-projets.git
+```bash
+git clone https://github.com/firasbouricha/ynov-git-cours-et-projets.git
+```
+
 
 Auteur
 👤 Firas Bouricha
