@@ -1,5 +1,4 @@
 # 🧠  Git avancé – Cours, TP et Projets  
-### Par Firas Bouricha– Mentor Ynov Sophia Antipolis  
 
 ---
 
