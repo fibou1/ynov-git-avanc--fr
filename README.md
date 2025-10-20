@@ -57,7 +57,7 @@ Projet de fin de module :
 
 1️⃣ Clone le dépôt :  
 ```bash
-git clone https://github.com/firasbouricha/ynov-git-cours-et-projets.git
+git clone https://github.com/fibou1/ynov-git-avance--fr.git
 ```
 
 
