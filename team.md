@@ -39,7 +39,7 @@ Chaque équipe doit :
 
 ### 🏛️ Team Sénateur
 - 👥 **Membres :** KING Dylan, DELPY Charles, KHARBACHE Adem  
-- 🔗 **Repo GitHub :** _à compléter_
+- 🔗 **Repo GitHub :** https://github.com/Dylan-King-dev/GoQuiz_Team-Senateur
 
 ---
 
