@@ -26,7 +26,7 @@ Chaque équipe doit :
 ---
 
 ### ♻️ Team CO2
-- 👥 **Membres :** Bastide Mattéo, KLOTZ Alexandre  
+- 👥 **Membres :** Bastide Mattéo, KLOTZ Alexandre,PETRENKO Nikita
 - 🔗 **Repo GitHub :** _à compléter_
 
 ---
